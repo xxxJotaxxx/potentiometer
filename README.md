@@ -1,0 +1,4 @@
+# potentiometer
+
+
+Circuit:
